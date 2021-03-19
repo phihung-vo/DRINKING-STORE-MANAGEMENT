@@ -1,5 +1,5 @@
 # DRINKING-STORE-MANAGEMENT
-1. This project is the final exam of subject named 'Object-oriented programming (OOP)'.
+1. This project is the final exam of subject named 'OBJECT-ORIENTED PROGRAMMING (OOP)'.
 
 2. This project is teamwork, two members:
     - VO PHI HUNG
