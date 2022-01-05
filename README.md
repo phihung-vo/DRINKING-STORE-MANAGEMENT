@@ -1,4 +1,6 @@
 # DRINKING-STORE-MANAGEMENT
+Written on Netbeans 11.3
+
 1. This project is the final exam of subject named 'OBJECT-ORIENTED PROGRAMMING (OOP)'.
 
 2. This project is teamwork, two members:
